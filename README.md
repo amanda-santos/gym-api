@@ -92,12 +92,8 @@
       <br />
       role (ADMIN or MEMBER)
     </td>
-    <td>
-      
-    </td>
-    <td>
-      
-    </td>
+    <td></td>
+    <td></td>
   </tr>
 
   <tr>
@@ -109,12 +105,8 @@
       <br />
       password
     </td>
-    <td>
-      
-    </td>
-    <td>
-      
-    </td>
+    <td></td>
+    <td></td>
   </tr>
 
   <tr>
@@ -125,9 +117,7 @@
     <td>
       ✔️
     </td>
-    <td>
-      
-    </td>
+    <td></td>
   </tr>
 
   <tr>
@@ -161,9 +151,7 @@
     <td>
       ✔️
     </td>
-    <td>
-      
-    </td>
+    <td></td>
   </tr>
 
   <tr>
@@ -174,9 +162,7 @@
     <td>
       ✔️
     </td>
-    <td>
-      
-    </td>
+    <td></td>
   </tr>
 
   <tr>
@@ -191,9 +177,7 @@
     <td>
       ✔️
     </td>
-    <td>
-      
-    </td>
+    <td></td>
   </tr>
 
   <tr>
@@ -217,9 +201,7 @@
     <td>
       ✔️
     </td>
-    <td>
-      
-    </td>
+    <td></td>
   </tr>
 
   <tr>
@@ -230,9 +212,7 @@
     <td>
       ✔️
     </td>
-    <td>
-      
-    </td>
+    <td></td>
   </tr>
 </table>
 
