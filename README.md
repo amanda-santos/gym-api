@@ -93,10 +93,10 @@
       role (ADMIN or MEMBER)
     </td>
     <td>
-      [ ]
+      
     </td>
     <td>
-      [ ]
+      
     </td>
   </tr>
 
@@ -110,10 +110,10 @@
       password
     </td>
     <td>
-      [ ]
+      
     </td>
     <td>
-      [ ]
+      
     </td>
   </tr>
 
@@ -123,10 +123,10 @@
     <td>Returns the current logged in user</td>
     <td>N/A</td>
     <td>
-      [x]
+      ✔️
     </td>
     <td>
-      [ ]
+      
     </td>
   </tr>
 
@@ -146,36 +146,36 @@
       longitude
     </td>
     <td>
-      [x]
+      ✔️
     </td>
     <td>
-      [x]
+      ✔️
     </td>
   </tr>
 
   <tr>
     <td>GET</td>
-    <td>/gyms/search?q=search-text&page=1</td>
+    <td>/gyms/search?q=:searchText&page=:pageNumber</td>
     <td>Returns a list of gyms with the given query and page</td>
     <td>N/A</td>
     <td>
-      [x]
+      ✔️
     </td>
     <td>
-      [ ]
+      
     </td>
   </tr>
 
   <tr>
     <td>GET</td>
-    <td>/gyms/nearby?latitude=10.7128&longitude=-90.0060</td>
+    <td>/gyms/nearby?latitude=:number&longitude=:number</td>
     <td>Returns a list of gyms near the given location</td>
     <td>N/A</td>
     <td>
-      [x]
+      ✔️
     </td>
     <td>
-      [ ]
+      
     </td>
   </tr>
 
@@ -189,10 +189,10 @@
       longitude
     </td>
     <td>
-      [x]
+      ✔️
     </td>
     <td>
-      [ ]
+      
     </td>
   </tr>
 
@@ -202,10 +202,10 @@
     <td>Marks the given check-in as validated</td>
     <td>N/A</td>
     <td>
-      [x]
+      ✔️
     </td>
     <td>
-      [x]
+      ✔️
     </td>
   </tr>
 
@@ -215,10 +215,10 @@
     <td>Returns a list of the user's check-ins</td>
     <td>N/A</td>
     <td>
-      [x]
+      ✔️
     </td>
     <td>
-      [ ]
+      
     </td>
   </tr>
 
@@ -228,10 +228,10 @@
     <td>Returns the user's check-ins metrics</td>
     <td>N/A</td>
     <td>
-      [x]
+      ✔️
     </td>
     <td>
-      [ ]
+      
     </td>
   </tr>
 </table>
