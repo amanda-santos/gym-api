@@ -1,5 +1,5 @@
 <h1 align="center">
-  💸 Transactions API
+  🏋️‍♀️ Gym API
 </h1>
 
 <p align="center">
@@ -28,11 +28,9 @@
 
 ## 📝 About the project
 
-<p>This is a Node.js HTTP Rest API built with Typescript, Fastify, Prisma, PostgreSQL, JWT and other technologies. It enables gym system management, including user sign up and authentication, permissions, gym creation and search, and check-in creation, history, metrics, and validation.</p>
+<p>This is a Node.js HTTP Rest API built with Typescript, Fastify, Prisma, PostgreSQL, JWT and other technologies. It enables a gym system management, including user sign up and authentication, permissions, gym creation and search, and check-in creation, history, metrics, and validation.</p>
 
 <p>The application is fully tested with unit and end-to-end tests using Vitest and Supertest, and adheres to the SOLID principles.</p>
-
-<p>Access the API through <a href="https://gym-api-ukop.onrender.com/" target="_blank">this</a> link.</p>
 
 <p>It was developed as a part of Ignite Node.js by <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a> 🚀</p>
 
